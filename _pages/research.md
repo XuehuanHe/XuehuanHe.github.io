@@ -8,7 +8,7 @@ It is known that the rupture of an aneurysm tissue begins at a certain local reg
   <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/b5becdff-caca-4b94-a5c9-2a15decc0e3a" width="500" /> 
 </p>
 
-### Related Journal Papers
+### Related Publications
 
 **He, X.**, Avril, S., & Lu, J. (2021). Prediction of local strength of ascending thoracic aortic aneurysms. Journal of the Mechanical Behavior of Biomedical Materials, 115, 104284. 
 
