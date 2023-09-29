@@ -13,9 +13,8 @@ Our data-driven approach implies that patterns observed during the transitional 
 ![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/21d348e1-5fb5-4e76-812b-9c65437c0a5f)
 
 ![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/2a71d473-e9d7-429c-a79d-45c00aa6f8dd)
-![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/dc60120b-6957-4a1b-a533-25a68cacd8fe)
 
-![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/09560d05-a560-4f33-add0-618b33690956)
-![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/1e33e39c-bbd6-46c6-bd34-8c38b2162481)
 
 ## 
+
+![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/1a416cda-e531-4cee-a152-43bc5db949ad)
