@@ -21,8 +21,6 @@ It is known that the rupture of an aneurysm tissue begins at a certain local reg
 Our data-driven approach implies that patterns observed during the transitional phase of response can be exploited to evaluate the rupture risk in aortic aneurysms. The transitional phase arises due to the gradual recruitment of crimped collagen fibers. In our work, we introduced an 'effective stretch' to account for collagen recruitment. It is a continuum-scale kinematic variable measuring, in an average sense, the uncrimped stretch of collagen fibers at the tissue level. In light of the effective stretch, we developed a family of constitutive models to describe the uniaxial and biaxial responses of vascular tissue. The models demonstrate excellent descriptive and predictive capabilities
 ![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/21d348e1-5fb5-4e76-812b-9c65437c0a5f)
 
-![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/2a71d473-e9d7-429c-a79d-45c00aa6f8dd)
-
 ![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/64ad2472-30f0-426a-a5b7-9ab0898be36d)
 
 ## 
