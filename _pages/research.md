@@ -8,4 +8,6 @@ It is known that the rupture of an aneurysm tissue begins at a certain local reg
   <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/b5becdff-caca-4b94-a5c9-2a15decc0e3a" width="500" /> 
 </p>
 
-## 
+## Constitutive Modeling of Vascular Tissue considering collagen recruitment 
+
+The gradual recruitment of collagen fibers dominates the transitional phase of vascular tissue response within the physiological blood pressure range, and further affects the rupture risk of   In our work, an “effective stretch” was introduced to account for the collagen recruitment.  It is a continuum-scale kinematic variable measuring the uncrimped stretch of collagen fibers at the tissue level in an average sense.  In light of the effective stretch, we developed a family of constitutive models to describe both the uniaxial and biaxial responses of  vascular tissue. The models demonstrate excellent  descriptive and predictive capabilities
