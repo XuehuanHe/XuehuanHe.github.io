@@ -6,6 +6,9 @@ It is known that the rupture of an aneurysm tissue begins at a certain local reg
 ![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/da0c3436-a547-432c-8832-e804028edf51)
 ![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/b5becdff-caca-4b94-a5c9-2a15decc0e3a)
 
-
+<p float="left">
+  <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/da0c3436-a547-432c-8832-e804028edf51" width="400" />
+  <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/b5becdff-caca-4b94-a5c9-2a15decc0e3a" width="400" /> 
+</p>
 
 ## 
