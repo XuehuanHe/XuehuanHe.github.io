@@ -13,7 +13,7 @@ It is known that the rupture of an aneurysm tissue begins at a certain local reg
   <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/b5becdff-caca-4b94-a5c9-2a15decc0e3a" width="500" /> 
 </p>
 
-#### Related Publications
+### Related Publications
 
 * **He, X.**, Avril, S., & Lu, J. (2021). Prediction of local strength of ascending thoracic aortic aneurysms. Journal of the Mechanical Behavior of Biomedical Materials, 115, 104284. 
 
@@ -30,7 +30,7 @@ Our data-driven approach implies that patterns observed during the transitional 
   <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/1534e8bd-394f-480d-a12a-a965610b3e47" width="600" />
 </p>
 
-#### Related Publications
+### Related Publications
 
 * Lu, J., & **He, X.** (2021). Incorporating fiber recruitment in hyperelastic modeling of vascular tissues by means of kinematic average. Biomech Model Mechanobiol, 20(5), 1833-1850
 
@@ -48,7 +48,7 @@ We advocated the use of effective strain in ATAA rupture assessment. The effecti
   <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/5d83bc44-967f-4234-9153-f84cf3fe62eb" width="600" />
 </p>
 
-#### Related Publications
+### Related Publications
 
 * **He, X.**, Auricchio, F., Morganti, S., & Lu, J. (2021). Uniaxial properties of ascending aortic aneurysms in light of effective stretch. Acta Biomaterialia, 136, 306-313. 
 
@@ -60,7 +60,7 @@ We advocated the use of effective strain in ATAA rupture assessment. The effecti
 
 We developed computational methods to estimate in-vivo stiffness of aortic wall directly from dynamic CTA using a modified version of the Vascular Deformation Mapping (VDM) technique. **More will come**
 
-#### Related Publications
+### Related Publications
 
 * Kim, T.; Tjahjadi, N.S.; **He, X.**; van Herwaarden, J.; Patel, H.J.; Burris, N.S.; Figueroa, C.A. Three-Dimensional Characterization of Aortic Root Motion by Vascular Deformation Mapping. J. Clin. Med. 2023,
 
@@ -69,7 +69,7 @@ We developed computational methods to estimate in-vivo stiffness of aortic wall 
 
 We simulated the insertion process of colonoscopes in colon models via ANSYS-LSDYNA. An uni-axial tension test was carried out to provide the mechanical properties of a porcine colon. The model developed in this project serves as a starting point in understanding the efficacy of SC colonoscopes in reducing patient pain considering the effects of patient characteristics, including gender, age, and region.
 
-#### Related Publications
+### Related Publications
 
 * Zhou, D., & **He, X.** (2019). Numerical evaluation of the efficacy of small-caliber colonoscopes in reducing patient pain during a colonoscopy. Computer methods in biomechanics and biomedical engineering, 22(1), 38-46.
 
