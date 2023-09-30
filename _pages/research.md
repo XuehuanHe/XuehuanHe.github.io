@@ -22,9 +22,17 @@ Our data-driven approach implies that patterns observed during the transitional 
 
 ![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/88fa6aae-b933-4a64-bf52-2c8fd6e49906)
 
-![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/8c4d469a-e7d9-4289-be9d-613a3e8ced5f)
+### Related Publications
 
+Lu, J., & **He, X.** (2021). Incorporating fiber recruitment in hyperelastic modeling of vascular tissues by means of kinematic average. Biomech Model Mechanobiol, 20(5), 1833-1850
 
-## 
+**He, X.**, & Lu, J. (2022). Modeling planar response of vascular tissues using quadratic functions of effective strain. International Journal for Numerical Methods in Biomedical Engineering, e3653.
 
-![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/1a416cda-e531-4cee-a152-43bc5db949ad)
+**He, X.**, & Lu, J. (2022).  Explicit consideration of fiber recruitment in vascular constitutive formulation using beta functions. Journal of the Mechanics and Physics of Solids, 163, 104837. 
+
+## A strain based rupture metric for ATAA that emphasizes micro-structural connection
+
+We advocated the use of effective strain in ATAA rupture assessment. The effective strain is a measure of net strain in the collagen network after waviness uncrimping. We analyzed bulge inflation data of ATAA samples. It was found that, while the total strains at rupture varied from sample to sample, the effective strains were closely clustered around 0.1. And the hotspots of effective strain matched the rupture sites well. The work underlines the importance of considering collagen fiber waviness and recruitment when evaluating the rupture risk using strain and suggests a new direction for developing sharper rupture metrics
+
+![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/5d83bc44-967f-4234-9153-f84cf3fe62eb)
+
