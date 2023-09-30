@@ -36,5 +36,7 @@ Lu, J., & **He, X.** (2021). Incorporating fiber recruitment in hyperelastic mod
 
 We advocated the use of effective strain in ATAA rupture assessment. The effective strain is a measure of net strain in the collagen network after waviness uncrimping. We analyzed bulge inflation data of ATAA samples. It was found that, while the total strains at rupture varied from sample to sample, the effective strains were closely clustered around 0.1. And the hotspots of effective strain matched the rupture sites well. The work underlines the importance of considering collagen fiber waviness and recruitment when evaluating the rupture risk using strain and suggests a new direction for developing sharper rupture metrics
 
-![image](https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/5d83bc44-967f-4234-9153-f84cf3fe62eb)
 
+<p align="center">
+  <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/5d83bc44-967f-4234-9153-f84cf3fe62eb" width="800" />
+</p>
