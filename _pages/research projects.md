@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "research projects"
+permalink: /research projects/
+author_profile: true
+---
+
+
 # Research Summary
 
 ## Data-driven approaches for discovering macroscopic rupture pattern of ascending thoracic aortic aneurysm (ATAA) based on early response features
