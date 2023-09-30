@@ -15,7 +15,7 @@ The full-text of my articles are accessible or can be accessed on request on my 
 
 3. **He, X.**, & Lu, J. (2022). Modeling planar response of vascular tissues using quadratic functions of effective strain. International Journal for Numerical Methods in Biomedical Engineering, e3653.
 
-4。 **He, X.**, & Lu, J. (2022).  Explicit consideration of fiber recruitment in vascular constitutive formulation using beta functions. Journal of the Mechanics and Physics of Solids, 163, 104837. 
+4. **He, X.**, & Lu, J. (2022).  Explicit consideration of fiber recruitment in vascular constitutive formulation using beta functions. Journal of the Mechanics and Physics of Solids, 163, 104837. 
 
 5. **He, X.**, Auricchio, F., Morganti, S., & Lu, J. (2021). Uniaxial properties of ascending aortic aneurysms in light of effective stretch. Acta Biomaterialia, 136, 306-313. 
 
