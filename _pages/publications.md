@@ -30,3 +30,12 @@ The full-text of my articles are accessible or can be accessed on request on my 
 10. **He, X.**, Bai, J., & Zhou, D. (2019). Numerical Evaluation of the Performance Efficiency of Small-Caliber Colonoscopes in Reducing Patient Pain during a Colonoscopy: Influence of Gender. International Journal of Pharma Medicine and Biological Sciences, 8(2), 28-33.
 
   
+## Conference Presentations
+
+1. He, X. , & Lu, J. Modelling Collagen fiber recruitment in aortic tissue using kinematic average method, Poster session presented at the Virtual Summer Biomechanics, Bioengineering, and Biotransport Conference, June 14 – 18, 2021.
+
+2. He, X. , & Lu, J. Machine-learning prediction of aortic thoracic aneurysm tissue rupture, Poster session presented at the society of engineering science (SES) virtual technical meeting, September 29 – October 1, 2020.
+
+3. He, X., Avril, S., & Lu, J. Machine learning prediction of Tissue strength and local Rupture risk in Ascending thoracic Aortic Aneurysms. Oral session presented at the International Conference on Biomechanics and Medical Engineering, San Diego, CA, September 20-23, 2019.
+
+4. He, X., Ferrara, A., Luo, YM., Auricchio, F. & Lu, J., Machine Learning Prediction of Rupture Strength of Ascending Aortic Aneurysm Tissue. Oral session presented at the Summer Biomechanics, Bioengineering, and Biotransport Conference, Seven Springs, PA, June 25 – 28, 2019.
