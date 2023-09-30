@@ -11,32 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mechanical Engineering, University of Iowa, 2022
+* M.S. in Mechanical Engineering, University of Minnesota, Duluth, 2018
+* B.S. in Mechanical Design, Manufacturing and Automation, University of Chang’an, China, 2015
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Honors and Awards
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
