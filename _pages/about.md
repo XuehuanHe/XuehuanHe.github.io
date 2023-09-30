@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 
 I am currently a Postdoctoral Associate working with Dr. Ian A. Sigal at Pitt. Previously, I worked as a Postdoctoral Reseacher at UMich (Mentors: Dr. Nicholas Burris and Dr. Alberto Figueroa) from 2022 to 2023. Prior to that, I received my Ph.D. degree in Mechanical Engineering from University of Iowa (advisor: Dr. Jia Lu), in 2022. I obtained a M.S. degree from University of Minnesota, Duluth, in 2018 and a B.Eng. degree in Mechanical Engineering from Chang'an University, China, in 2015. 
 
