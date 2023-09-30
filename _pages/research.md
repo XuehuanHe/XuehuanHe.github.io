@@ -40,3 +40,28 @@ We advocated the use of effective strain in ATAA rupture assessment. The effecti
 <p align="center">
   <img src="https://github.com/XuehuanHe/XuehuanHe.github.io/assets/42738737/5d83bc44-967f-4234-9153-f84cf3fe62eb" width="600" />
 </p>
+
+### Related Publications
+
+**He, X.**, Auricchio, F., Morganti, S., & Lu, J. (2021). Uniaxial properties of ascending aortic aneurysms in light of effective stretch. Acta Biomaterialia, 136, 306-313. 
+
+**He, X.**, & Lu, J. (2022). On strain-based rupture criterion for ascending aortic aneurysm: The role of fiber waviness. Acta biomaterialia, 149, 51-59.
+
+
+## Patient-specific assessment of aortic wall growth and diseases
+
+We developed computational methods to estimate in-vivo stiffness of aortic wall directly from dynamic CTA using a modified version of the Vascular Deformation Mapping (VDM) technique. **More will come**
+
+### Related Publications
+
+Kim, T.; Tjahjadi, N.S.; **He, X.**; van Herwaarden, J.; Patel, H.J.; Burris, N.S.; Figueroa, C.A. Three-Dimensional Characterization of Aortic Root Motion by Vascular Deformation Mapping. J. Clin. Med. 2023,
+
+## Modeling of the Interaction between Colon and Colonoscope during a Colonoscopy
+
+We simulated the insertion process of colonoscopes in colon models via ANSYS-LSDYNA. An uni-axial tension test was carried out to provide the mechanical properties of a porcine colon. The model developed in this project serves as a starting point in understanding the efficacy of SC colonoscopes in reducing patient pain considering the effects of patient characteristics, including gender, age, and region.
+
+### Related Publications
+
+Zhou, D., & **He, X.** (2019). Numerical evaluation of the efficacy of small-caliber colonoscopes in reducing patient pain during a colonoscopy. Computer methods in biomechanics and biomedical engineering, 22(1), 38-46.
+
+**He, X.**, Bai, J., & Zhou, D. (2019). Numerical Evaluation of the Performance Efficiency of Small-Caliber Colonoscopes in Reducing Patient Pain during a Colonoscopy: Influence of Gender. International Journal of Pharma Medicine and Biological Sciences, 8(2), 28-33. 
