@@ -22,14 +22,11 @@ Selected Honors and Awards
 * Outstanding graduate teaching assistant awarded by University of Minnesota Duluth, 2018
 * Outstanding student awarded by University of Chang'an, China, 2015                           
 
-Fellowships and Scholarship
+Selected Fellowships and Scholarship
 ======
 * Post-Comprehensive Research Fellowship from University of Iowa $5000, 2021
 * Sharada Devi Planjery Memorial scholarship $2500, 2022
 * Rajyalakshmi & Shankar N Planjery Memorial scholarship $2500, 2019
-* National Encouragement Scholarship, Ministry of Education, P.R. China, $800, 2015
-* National Encouragement Scholarship, Ministry of Education, P.R. China, $800, 2014
-* National Encouragement Scholarship, Ministry of Education, P.R. China, $800, 2013
   
 Talks
 ======
