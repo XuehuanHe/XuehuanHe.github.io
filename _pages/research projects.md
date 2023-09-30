@@ -31,11 +31,11 @@ Our data-driven approach implies that patterns observed during the transitional 
 
 ### Related Publications
 
-Lu, J., & **He, X.** (2021). Incorporating fiber recruitment in hyperelastic modeling of vascular tissues by means of kinematic average. Biomech Model Mechanobiol, 20(5), 1833-1850
+* Lu, J., & **He, X.** (2021). Incorporating fiber recruitment in hyperelastic modeling of vascular tissues by means of kinematic average. Biomech Model Mechanobiol, 20(5), 1833-1850
 
-**He, X.**, & Lu, J. (2022). Modeling planar response of vascular tissues using quadratic functions of effective strain. International Journal for Numerical Methods in Biomedical Engineering, e3653.
+* **He, X.**, & Lu, J. (2022). Modeling planar response of vascular tissues using quadratic functions of effective strain. International Journal for Numerical Methods in Biomedical Engineering, e3653.
 
-**He, X.**, & Lu, J. (2022).  Explicit consideration of fiber recruitment in vascular constitutive formulation using beta functions. Journal of the Mechanics and Physics of Solids, 163, 104837. 
+* **He, X.**, & Lu, J. (2022).  Explicit consideration of fiber recruitment in vascular constitutive formulation using beta functions. Journal of the Mechanics and Physics of Solids, 163, 104837. 
 
 ## A strain based rupture metric for ATAA that emphasizes micro-structural connection
 
@@ -48,9 +48,9 @@ We advocated the use of effective strain in ATAA rupture assessment. The effecti
 
 ### Related Publications
 
-**He, X.**, Auricchio, F., Morganti, S., & Lu, J. (2021). Uniaxial properties of ascending aortic aneurysms in light of effective stretch. Acta Biomaterialia, 136, 306-313. 
+* **He, X.**, Auricchio, F., Morganti, S., & Lu, J. (2021). Uniaxial properties of ascending aortic aneurysms in light of effective stretch. Acta Biomaterialia, 136, 306-313. 
 
-**He, X.**, & Lu, J. (2022). On strain-based rupture criterion for ascending aortic aneurysm: The role of fiber waviness. Acta biomaterialia, 149, 51-59.
+* **He, X.**, & Lu, J. (2022). On strain-based rupture criterion for ascending aortic aneurysm: The role of fiber waviness. Acta biomaterialia, 149, 51-59.
 
 
 ## Patient-specific assessment of aortic wall growth and diseases
@@ -59,7 +59,7 @@ We developed computational methods to estimate in-vivo stiffness of aortic wall 
 
 ### Related Publications
 
-Kim, T.; Tjahjadi, N.S.; **He, X.**; van Herwaarden, J.; Patel, H.J.; Burris, N.S.; Figueroa, C.A. Three-Dimensional Characterization of Aortic Root Motion by Vascular Deformation Mapping. J. Clin. Med. 2023,
+* Kim, T.; Tjahjadi, N.S.; **He, X.**; van Herwaarden, J.; Patel, H.J.; Burris, N.S.; Figueroa, C.A. Three-Dimensional Characterization of Aortic Root Motion by Vascular Deformation Mapping. J. Clin. Med. 2023,
 
 ## Modeling of the Interaction between Colon and Colonoscope during a Colonoscopy
 
@@ -67,6 +67,6 @@ We simulated the insertion process of colonoscopes in colon models via ANSYS-LSD
 
 ### Related Publications
 
-Zhou, D., & **He, X.** (2019). Numerical evaluation of the efficacy of small-caliber colonoscopes in reducing patient pain during a colonoscopy. Computer methods in biomechanics and biomedical engineering, 22(1), 38-46.
+* Zhou, D., & **He, X.** (2019). Numerical evaluation of the efficacy of small-caliber colonoscopes in reducing patient pain during a colonoscopy. Computer methods in biomechanics and biomedical engineering, 22(1), 38-46.
 
-**He, X.**, Bai, J., & Zhou, D. (2019). Numerical Evaluation of the Performance Efficiency of Small-Caliber Colonoscopes in Reducing Patient Pain during a Colonoscopy: Influence of Gender. International Journal of Pharma Medicine and Biological Sciences, 8(2), 28-33. 
+* **He, X.**, Bai, J., & Zhou, D. (2019). Numerical Evaluation of the Performance Efficiency of Small-Caliber Colonoscopes in Reducing Patient Pain during a Colonoscopy: Influence of Gender. International Journal of Pharma Medicine and Biological Sciences, 8(2), 28-33. 
