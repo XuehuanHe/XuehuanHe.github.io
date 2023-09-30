@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{if author.googlescholar }
-  Most of my articles are accessible or access on request on <u><a href="{{author.researchgate}}">my researchgate profile</a>.</u>
-{endif}
+The full-text of my articles are accessible or can be accessed on request on <u><a href="{{https://www.researchgate.net/profile/Xuehuan-He-2}}">my researchgate profile</a>.</u>
+
 
 {% include base_path %}
 
