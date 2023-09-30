@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Research Summary"
 permalink: /Research Projects/
 author_profile: true
 ---
-
-
-# Research Summary
 
 ## Data-driven approaches for discovering macroscopic rupture pattern of ascending thoracic aortic aneurysm (ATAA) based on early response features
 It is known that the rupture of an aneurysm tissue begins at a certain local region, and then the crack continues to propagate under loading. According to classical macro-mechanical failure theory, rupture of the tissue occurs when the stress in the tissue exceeds the material strength. It is known that ATAA tissue exhibit significant inter-subject and intro-subject heterogeneity.  A reliable rupture risk assessment of ATAA thus requires knowledge of the stress and strength, both local. However, there is no viable experiment which enables the acquisition of the local failure properties for ATAA tissue, which inhibits the accurate estimation of the tissue local rupture risk. When I first explored this area, I realized that even the most obvious questions do not have very clear answers, such as, "Are the tissue response properties manifested in the crack initiation area different from surrounding intact regions?" and "If so, could we differentiate between rupture and non-rupture groups based on response features?" To answer these questions, I developed a novel, data-driven approach to differentiate macroscopic response patterns between rupture and non-rupture groups. To facilitate the application of this method in vivo, only tension-strain curves within the physiological blood pressure range were selected. It is hypothesized that the region prone to initiate rupture is associated with a high level of stress (tension) build-up. The results suggest that the proposed “stress (tension) build-up level” within the physiological pressure range can be exploited to estimate the rupture risk of ATAA. This work has shown promising results and may eventually pave the way for noninvasively assessing ATAA rupture risk.
@@ -18,11 +15,11 @@ It is known that the rupture of an aneurysm tissue begins at a certain local reg
 
 ### Related Publications
 
-**He, X.**, Avril, S., & Lu, J. (2021). Prediction of local strength of ascending thoracic aortic aneurysms. Journal of the Mechanical Behavior of Biomedical Materials, 115, 104284. 
+* **He, X.**, Avril, S., & Lu, J. (2021). Prediction of local strength of ascending thoracic aortic aneurysms. Journal of the Mechanical Behavior of Biomedical Materials, 115, 104284. 
 
-**He, X.**, Avril, S., & Lu, J. (2021). Estimating aortic thoracic aneurysm rupture risk using tension–strain data in physiological pressure range: an in vitro study. Biomechanics and Modeling in Mechanobiology, 20(2), 683-699. 
+* **He, X.**, Avril, S., & Lu, J. (2021). Estimating aortic thoracic aneurysm rupture risk using tension–strain data in physiological pressure range: an in vitro study. Biomechanics and Modeling in Mechanobiology, 20(2), 683-699. 
 
-**He, X.**, Avril, S., & Lu, J. (2019). Machine learning prediction of tissue Strength and local Rupture risk in Ascending thoracic Aortic Aneurysms. Molecular & Cellular Biomechanics, 16(S2): 50 -52. 
+* **He, X.**, Avril, S., & Lu, J. (2019). Machine learning prediction of tissue Strength and local Rupture risk in Ascending thoracic Aortic Aneurysms. Molecular & Cellular Biomechanics, 16(S2): 50 -52. 
 
 
 ## Constitutive Modeling of Vascular Tissue considering collagen recruitment 
