@@ -67,7 +67,7 @@ We developed computational methods to estimate in-vivo stiffness of aortic wall 
 
 ## Modeling of the Interaction between Colon and Colonoscope during a Colonoscopy
 
-We simulated the insertion process of colonoscopes in colon models via ANSYS-LSDYNA. An uni-axial tension test was carried out to provide the mechanical properties of a porcine colon. The model developed in this project serves as a starting point in understanding the efficacy of SC colonoscopes in reducing patient pain considering the effects of patient characteristics, including gender, age, and region.
+We simulated the insertion process of colonoscopes in colon models via ANSYS-LSDYNA. An uni-axial tension test was carried out to provide the mechanical properties of a porcine colon. The model developed in this project serves as a starting point in understanding the efficacy of Small colonoscopes in reducing patient pain considering the effects of patient characteristics, including gender, age, and region.
 
 ### Related Publications
 
