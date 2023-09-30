@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {if author.googlescholar }
-  Most of my articles are accessible or access on request on <u><a href="{{author.researchgate}}">my Google Scholar profile</a>.</u>
+  Most of my articles are accessible or access on request on <u><a href="{{author.researchgate}}">my researchgate profile</a>.</u>
 {endif}
 
 {% include base_path %}
