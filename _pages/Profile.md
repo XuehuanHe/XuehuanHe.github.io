@@ -41,8 +41,6 @@ Research Open house,  University of Iowa, November 2020
 Teaching
 ======
 * Graduate Teaching Assistant for Mathematical Methods in Engineering (ME:5113) at University of Iowa, Fall 2019, Fall 2020, Fall 2021
-* Graduate Teaching Assistant for Controls and Kinematics Laboratory (ME:3222) at University of Minnesota, Duluth, Fall 2016 – Fall 2018
+* Graduate Teaching Assistant for Controls and Kinematics Laboratory (ME:3222) at University of Minnesota, Duluth, 2016 – 2018
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
