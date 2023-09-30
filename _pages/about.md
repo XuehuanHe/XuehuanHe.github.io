@@ -13,6 +13,6 @@ I am currently a Postdoctoral Associate working with Dr. Ian A. Sigal at Pitt. P
 
 My research interests lie in the the field of fibrous soft tissue biomechanics. I am very interested in understanding the relations between fibrous soft tissue microstructural properties, macroscopic mechanical properties and diseases using a systematic framework consisting of In-vivo/ Ex-vivo experimental characterization, computational modeling (continuum and discrete), and machine learning techniques. 
 
-Feel free to look around for more information and you can contact me via my email: hxhnylg@gmail
+Feel free to look around for more information and you can contact me via my school email: HEH109@pitt.edu
 
 
