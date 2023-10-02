@@ -29,6 +29,7 @@ The full-text of my articles are accessible or can be accessed on request on my 
 
 10. **He, X.**, Bai, J., & Zhou, D. (2019). Numerical Evaluation of the Performance Efficiency of Small-Caliber Colonoscopes in Reducing Patient Pain during a Colonoscopy: Influence of Gender. International Journal of Pharma Medicine and Biological Sciences, 8(2), 28-33.
 
+11. Zhou, D., & **He, X.** (2019). Numerical evaluation of the efficacy of small-caliber colonoscopes in reducing patient pain during a colonoscopy. Computer methods in biomechanics and biomedical engineering, 22(1), 38-46.
   
 ## Conference Presentations
 
