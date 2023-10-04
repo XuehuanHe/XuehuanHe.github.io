@@ -24,7 +24,7 @@ Selected Honors and Awards
 
 Selected Fellowships and Scholarships
 ======
-* Post-Comprehensive Research Fellowship from University of Iowa $5000, 2021
+* Post-Comprehensive Research Fellowship from University of Iowa $10500, 2021
 * Sharada Devi Planjery Memorial scholarship $2500, 2020
 * Rajyalakshmi & Shankar N Planjery Memorial scholarship $2500, 2019
   
